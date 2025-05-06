@@ -1,4 +1,4 @@
-#non-hyperparameter t-test
+#non-hyperparameter test
 #conda install scipy
 import numpy as np
 from scipy.stats import wilcoxon
